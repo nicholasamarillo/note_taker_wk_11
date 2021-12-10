@@ -1,7 +1,7 @@
 const express = require('express');
 
-const apiRoutes = require('./note_taker_wk_11/routes/apiRoute');
-const htmlRoutes = require('./note_taker_wk_11/routes/htmlRoute');
+const apiRoutes = require('/note_taker_wk_11/routes/apiRoute');
+const htmlRoutes = require('/note_taker_wk_11/routes/htmlRoute');
 
 const app = express();
 
