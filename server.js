@@ -12,8 +12,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.use(express.static('public'));
-app.use('/api', apiRoute);
-app.use('/', htmlRoute);
+app.use('/api', apiRoutes);
+app.use('/', htmlRoutes);
 
 app.listen(PORT, () => {
     console.log(`API server is ready on port ${PORT}!`);
