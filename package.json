@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sylviaprabudy/note-taker.git"
+    "url": "git+https://github.com/nicholasamarillo/note-taker.git"
   },
   "bugs": {
-    "url": "https://github.com/sylviaprabudy/note-taker/issues"
+    "url": "https://github.com/nicholasamarillo/note-taker/issues"
   },
-  "homepage": "https://github.com/sylviaprabudy/note-taker#readme"
+  "homepage": "https://github.com/nicholasamarillo/note-taker#readme"
 }
