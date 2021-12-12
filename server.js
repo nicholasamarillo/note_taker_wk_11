@@ -5,7 +5,7 @@ const htmlRoutes = require('./routes/htmlRoute');
 
 const app = express();
 
-const PORT = server.listen(process.env.PORT || 3001);
+const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended: true }));
 
