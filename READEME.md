@@ -21,3 +21,4 @@ If your note is still there then HOORAY!!!
 https://frozen-coast-64156.herokuapp.com
 
 ## SCREENSHOT
+[![Watch the video](./assets/note_taker.gif)]
