@@ -1,4 +1,4 @@
-# note_taker_wk_11
+# NOTE TAKER APP
 
 ## DESCRIPTION:
 This is a note taker app all built with backend code and being run on Heroku. This is technically a Full Stack application.
@@ -18,5 +18,6 @@ If your note is still there then HOORAY!!!
 - MIT
 
 ## LIVE LINK
+https://frozen-coast-64156.herokuapp.com
 
 ## SCREENSHOT
